@@ -14,6 +14,5 @@ Como dijo mi doctora:
 Foto de gato:
 
 ![Imagen de un gato](https://www.hola.com/imagenes/estar-bien/20201027177994/cosas-asustan-gatos-gt/0-882-234/gato-m.jpg)
-Format: ![Alt Text](url)
 
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+[Wikipedia](https://es.wikipedia.org/wiki/Felis_silvestris_catus)
