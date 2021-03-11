@@ -1,6 +1,6 @@
-## Título
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
+## Gatos
+### Felis silvestrus catus
+El gato doméstico es llamado de las siguientes formas:
 
 * *Elemento 1*
 * **Elemento 2**
@@ -9,7 +9,7 @@ Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 Como dijo mi doctora:
 > Una manzana al día...
 
-`<hr>`
+`<br/>`
 
 [Wikipedia](https://es.wikipedia.org/wiki/Felis_silvestris_catus)
 
