@@ -1,15 +1,15 @@
 ## Gatos
 ### Felis silvestrus catus
-El gato doméstico es llamado de las siguientes formas:
+El **gato doméstico** es llamado de las siguientes formas:
 
-* *Elemento 1*
-* **Elemento 2**
-* Elemento 3
+* Minino
+* Michino
+* Mizo
 
-Como dijo mi doctora:
-> Una manzana al día...
+Un dato curioso sobre los gatos, sacado de la Wikipedia, es el siguiente:
+> El nombre actual en muchas lenguas proviene del latín vulgar *catus*. Paradójicamente, *catus* aludía a los gatos salvajes, mientras que los gatos domésticos, en latín, eran llamados *felis*.
 
-`<br/>`
+`<hr>`
 
 [Wikipedia](https://es.wikipedia.org/wiki/Felis_silvestris_catus)
 
