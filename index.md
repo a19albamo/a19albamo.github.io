@@ -11,7 +11,7 @@ Un dato curioso sobre los gatos, sacado de la Wikipedia, es el siguiente:
 
 `<hr>`
 
-[Otra página creada por mí](https://a19albamo.github.io/blob/main/referencias.md)
+[Otra página creada por mí](https://a19albamo.github.io/referencias.md)
 
 [Wikipedia](https://es.wikipedia.org/wiki/Felis_silvestris_catus)
 
